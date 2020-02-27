@@ -18,7 +18,7 @@ The employees of a company are divided into three hierarchical categories: 1, 2,
 One assigns to two variables the salaries and the categories of these employees:
 
 |Employee| A| B| C| D| E| F| G| H| I| J|
-| ---- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| ----:|
+| ---- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:| ----:|
 |Salary |4225 |1619 |3706 |2240 |2076 |1389 |3916 |3918 |4939 |2735|
 |Category| 3| 1| 3| 2| 2| 1 |3 |3| 3| 2|
 
